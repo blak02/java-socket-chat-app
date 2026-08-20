@@ -63,3 +63,7 @@ The server stores connected clients and message history in memory. The communica
 - More robust message serialization
 - Thread-safe shared collections for heavy concurrent use
 - Configurable host and port
+
+#Author 
+Kemal Berkay Lak
+Wrocław University of Science and Technology, Electronics and Computer Engineering
